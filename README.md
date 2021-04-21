@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Maxim. I work as freelance full-stack software engineer.  
+I'm Maxim. I work as a freelance full-stack software engineer and sometimes for opensource.   
 I like to code for implement cool ideas that flash every day around me and my creative sociaty.
 
 ### Getting in touch: 
