@@ -46,7 +46,7 @@ I like to code for implement cool ideas that flash every day around me and my cr
         src="https://raw.githubusercontent.com/ismaxim/ismaxim/master/assets/icons/behance.svg"
     /></a>
 &nbsp;
-<a href="mailto:gr.gromax@gmail.com" title="Write me to email">
+<a href="mailto:maximgrynykha@gmail.com" title="Write me to email">
     <img
         width="32"
         alt="Write me to email"
