@@ -1,5 +1,3 @@
-### Getting in touch: 
-
 <a href="https://gist.github.com/ismaxim" title="Follow me on Github Gist">
     <img
         width="141"
