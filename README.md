@@ -1,9 +1,5 @@
-### Hi there 👋
-
-I'm Maxim. I work as a freelance full-stack software engineer and sometimes for opensource.   
-I like to code for implement cool ideas that flash every day around me and my creative sociaty.
-
 ### Getting in touch: 
+
 <a href="https://gist.github.com/ismaxim" title="Follow me on Github Gist">
     <img
         width="141"
