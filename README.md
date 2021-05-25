@@ -25,13 +25,13 @@ I like to code for implement cool ideas that flash every day around me and my cr
         src="https://raw.githubusercontent.com/ismaxim/ismaxim/master/assets/icons/telegram.svg"
     /></a>
 &nbsp;
-<a href="https://medium.com/@ismaxim" title="Follow me on Medium">
+<!-- <a href="https://medium.com/@ismaxim" title="Follow me on Medium">
     <img
         width="32"
         alt="Follow me on Medium"
         src="https://raw.githubusercontent.com/ismaxim/ismaxim/master/assets/icons/medium.svg"
     /></a>
-&nbsp;
+&nbsp; -->
 <a href="https://www.pinterest.com/ismaxim/" title="Follow me on Pinterest">
     <img
         width="32"
